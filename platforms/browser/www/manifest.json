@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "RigChecker 9000",
+  "short_name": "RigChecker 9000",
+  "version": "com.shai.bitcoins",
+  "description": "Shai's app.",
+  "author": "Eden Le Comte",
+  "icons": [],
+  "start_url": "index.html",
+  "theme_color": "#ee6e73"
+}

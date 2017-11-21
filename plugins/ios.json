@@ -1,0 +1,31 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "onesignal-cordova-plugin": {
+            "PACKAGE_NAME": "com.christchurchcitycouncil.cccevents"
+        },
+        "cordova-plugin-nativestorage": {
+            "PACKAGE_NAME": "com.christchurchcitycouncil.cccevents"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.christchurchcitycouncil.cccevents"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.christchurchcitycouncil.cccevents"
+        },
+        "cordova-plugin-local-notification": {
+            "PACKAGE_NAME": "com.shai.bitcoins"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "com.shai.bitcoins"
+        }
+    }
+}
